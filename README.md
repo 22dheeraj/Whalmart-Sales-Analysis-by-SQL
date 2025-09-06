@@ -27,6 +27,7 @@ Name: Walmart Sales Dataset
 Contains: Transaction details (Branch, City, Customer Type, Gender, Product Line, Payment Method, Gross Income, COGS, Date, Time, etc.)
 
 📝 Tasks
+
 Task 1: Identifying the Top Branch by Sales Growth Rate
 
 Objective: Find which branch has shown the highest sales growth over time.
