@@ -1,4 +1,5 @@
 Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques
+
 📌 Project Overview
 
 This project analyzes Walmart’s sales data using advanced MySQL techniques to uncover insights into sales performance, customer behavior, product trends, and operational efficiency. By leveraging SQL queries, the project provides actionable findings that can help Walmart optimize its strategies across branches, product lines, customer types, and payment methods.
@@ -22,6 +23,7 @@ Recognize loyal customers and reward top contributors.
 📂 Dataset
 
 Name: Walmart Sales Dataset
+
 Contains: Transaction details (Branch, City, Customer Type, Gender, Product Line, Payment Method, Gross Income, COGS, Date, Time, etc.)
 
 📝 Tasks
