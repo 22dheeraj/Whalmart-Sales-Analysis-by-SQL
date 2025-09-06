@@ -47,6 +47,7 @@ Contains: Transaction details such as Branch, City, Customer Type, Gender, Produ
 📊 Deliverables
 
 ✔️ SQL Script – Queries for Tasks 1–10
+
 ✔️ PowerPoint Presentation – Queries, results, and charts
 
 ⚙️ Tools & Technologies
