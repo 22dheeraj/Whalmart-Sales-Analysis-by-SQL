@@ -4,13 +4,6 @@
   The queries in this project are ideally written using Common Table Expressions (CTEs) 
   with the `WITH` clause for better readability and maintainability.
 
-  Currently, the target MySQL server is running a version below 8.0, which does NOT support CTEs,
-  resulting in errors when attempting to use `WITH`.
-
-  I am currently unsure how to upgrade the target MySQL server to version 8.0 or higher.
-  However, since my local development environment is running MySQL version 8.0+, I have used CTEs 
-  to leverage modern SQL features for improved structure, readability, and ease of debugging.
-
   I highly recommend upgrading the target server to MySQL 8.0 or later to ensure compatibility
   and to take full advantage of these improvements in future maintenance and scalability.
 */
