@@ -1,84 +1,57 @@
-Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques
+🛒 Sales Performance Analysis of Walmart Stores
 
-📌 Project Overview
+Using Advanced MySQL Techniques
 
-This project analyzes Walmart’s sales data using advanced MySQL techniques to uncover insights into sales performance, customer behavior, product trends, and operational efficiency. By leveraging SQL queries, the project provides actionable findings that can help Walmart optimize its strategies across branches, product lines, customer types, and payment methods.
+📖 Introduction
 
-The dataset contains transaction-level details, including customer demographics, sales figures, payment methods, and product line information.
+Walmart, a major retail chain, operates across several cities, offering a wide range of products. The dataset provided contains detailed transaction data, including customer demographics, product lines, sales figures, and payment methods.
+
+This project uses advanced SQL techniques to uncover actionable insights into sales performance, customer behavior, and operational efficiencies.
 
 🎯 Business Problem
 
-Walmart aims to optimize its sales strategies by analyzing historical transaction data across branches, customer segments, and product lines. The key goals are to:
+Walmart wants to optimize its sales strategies by analyzing historical transaction data across:
 
-Identify top-performing branches and product lines.
+Branches
 
-Understand customer segmentation and spending patterns.
+Customer types
 
-Detect anomalous sales transactions.
+Payment methods
 
-Analyze payment method preferences and sales distribution trends.
+Product lines
 
-Recognize loyal customers and reward top contributors.
+To achieve this, advanced MySQL queries will be employed to answer challenging business questions related to:
+✔️ Sales performance
+✔️ Customer segmentation
+✔️ Product trends
 
 📂 Dataset
 
 Name: Walmart Sales Dataset
 
-Contains: Transaction details (Branch, City, Customer Type, Gender, Product Line, Payment Method, Gross Income, COGS, Date, Time, etc.)
+Contains: Transaction details such as Branch, City, Customer Type, Gender, Product Line, Payment Method, Gross Income, COGS, Date & Time
 
-📝 Tasks
-
-Task 1: Identifying the Top Branch by Sales Growth Rate
-
-Objective: Find which branch has shown the highest sales growth over time.
-
-Task 2: Finding the Most Profitable Product Line for Each Branch
-
-Objective: Identify which product line contributes the most profit to each branch.
-
-Task 3: Customer Segmentation Based on Spending
-
-Objective: Segment customers into High, Medium, and Low spenders.
-
-Task 4: Detecting Anomalies in Sales Transactions
-
-Objective: Detect unusually high or low sales compared to product line averages.
-
-Task 5: Most Popular Payment Method by City
-
-Objective: Determine the most frequently used payment method in each city.
-
-Task 6: Monthly Sales Distribution by Gender
-
-Objective: Compare sales between male and female customers on a monthly basis.
-
-Task 7: Best Product Line by Customer Type
-
-Objective: Find which product lines are preferred by Members vs. Normal customers.
-
-Task 8: Identifying Repeat Customers
-
-Objective: Detect customers who made repeat purchases within 30 days.
-
-Task 9: Top 5 Customers by Sales Volume
-
-Objective: Find the top 5 customers generating the highest revenue.
-
-Task 10: Sales Trends by Day of the Week
-
-Objective: Analyze which day has the highest sales.
-
+| **Task** | **Objective**                                                                   
+| -------- | ------------------------------------------------------------------------------- 
+| 1        | Identify which **branch has the highest sales growth rate** over time           
+| 2        | Find the **most profitable product line** for each branch                       
+| 3        | Segment customers into **High, Medium, and Low spenders** based on spending     
+| 4        | Detect **unusually high/low sales anomalies** compared to product line averages 
+| 5        | Determine the **most popular payment method** by city                           
+| 6        | Analyze **monthly sales distribution by gender**                                
+| 7        | Identify the **best product line by customer type** (Member vs. Normal)         
+| 8        | Detect **repeat customers** within a 30-day timeframe                           
+| 9        | Find **Top 5 customers** by sales volume                                        
+| 10       | Analyze **sales trends by day of the week**                                     
+                  
 📊 Deliverables
 
-SQL Script – All queries used for analysis (Tasks 1–10).
-
-PowerPoint Presentation – Containing queries, results, and charts.
+✔️ SQL Script – Queries for Tasks 1–10
+✔️ PowerPoint Presentation – Queries, results, and charts
 
 ⚙️ Tools & Technologies
 
-MySQL (Data Querying & Analysis)
+🗄️ MySQL → Data querying & analysis
 
-PowerPoint (Visualization & Reporting)
-
-
+📊 PowerPoint → Visualization & reporting
 
