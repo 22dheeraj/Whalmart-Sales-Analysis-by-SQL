@@ -21,8 +21,11 @@ Payment methods
 Product lines
 
 To achieve this, advanced MySQL queries will be employed to answer challenging business questions related to:
+
 ✔️ Sales performance
+
 ✔️ Customer segmentation
+
 ✔️ Product trends
 
 📂 Dataset
